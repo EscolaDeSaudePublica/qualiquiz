@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/qualiquiz/precache-manifest.859e760b88f78630dccd302daefba859.js"
+  "/qualiquiz/precache-manifest.05dfe31ba5c85fba46b1ae51ef85cfb9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "qualiquiz"});
